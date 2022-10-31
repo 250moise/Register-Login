@@ -1,0 +1,12 @@
+span {
+  text-transform: lowercase;
+}
+
+.all-head {
+  text-transform: lowercase;
+}
+
+.capital {
+  text-transform: uppercase;
+}
+
